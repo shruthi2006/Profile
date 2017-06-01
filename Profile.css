@@ -1,0 +1,54 @@
+body{
+text-aling: center;
+background:#70f;
+color:fuchsia;
+} 
+
+img{
+    
+   border: 5px red solid; 
+   border-radius:40px; 
+    
+}
+    
+ul{
+      padding-left:320px;
+    padding-right:320px;
+    list-style:disc;
+}
+
+ol{
+     padding-left:320px;
+padding-right:320px;
+list-style:Lower-roman;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
